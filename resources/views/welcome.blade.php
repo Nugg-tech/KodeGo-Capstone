@@ -238,28 +238,7 @@
             </div>
 
         </section>
-        <section class="book" id="book">
 
-            <h1 class="heading"> <span>book</span> now </h1>
-
-            <div class="row">
-
-                <div class="image">
-                    <img src={{ asset('img/book-img.svg') }} alt="">
-                </div>
-
-                <form action="">
-                    <h3>book appointment</h3>
-                    <input type="text" placeholder="your name" class="box">
-                    <input type="number" placeholder="your number" class="box">
-                    <input type="email" placeholder="your email" class="box">
-                    <input type="date" class="box">
-                    <input type="submit" value="book now" class="btn" href="">
-                </form>
-
-            </div>
-
-        </section>
         <section class="review" id="review">
 
             <h1 class="heading"> client's <span>review</span> </h1>
@@ -276,9 +255,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                     </div>
-                    <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam sapiente
-                        nihil aperiam? Repellat sequi nisi aliquid perspiciatis libero nobis rem numquam nesciunt alias
-                        sapiente minus voluptatem, reiciendis consequuntur optio dolorem!</p>
+                    <p class="text"></p>
                 </div>
 
                 <div class="box">
@@ -291,9 +268,7 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                     </div>
-                    <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam sapiente
-                        nihil aperiam? Repellat sequi nisi aliquid perspiciatis libero nobis rem numquam nesciunt alias
-                        sapiente minus voluptatem, reiciendis consequuntur optio dolorem!</p>
+                    <p class="text"></p>
                 </div>
 
                 <div class="box">
@@ -306,68 +281,13 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star-half-alt"></i>
                     </div>
-                    <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam sapiente
-                        nihil aperiam? Repellat sequi nisi aliquid perspiciatis libero nobis rem numquam nesciunt alias
-                        sapiente minus voluptatem, reiciendis consequuntur optio dolorem!</p>
+                    <p class="text"></p>
                 </div>
 
             </div>
 
         </section>
-        <section class="blogs" id="blogs">
 
-            <h1 class="heading"> our <span>blogs</span> </h1>
-
-            <div class="box-container">
-
-                <div class="box">
-                    <div class="image">
-                        <img src={{ asset('img/blog-1.jpg') }} alt="">
-                    </div>
-                    <div class="content">
-                        <div class="icon">
-                            <a href="#"> <i class="fas fa-calendar"></i> 1st may, 2021 </a>
-                            <a href="#"> <i class="fas fa-user"></i> by admin </a>
-                        </div>
-                        <h3>blog title goes here</h3>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident, eius.</p>
-                        <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span> </a>
-                    </div>
-                </div>
-
-                <div class="box">
-                    <div class="image">
-                        <img src={{ asset('img/blog-2.jpg') }} alt="">
-                    </div>
-                    <div class="content">
-                        <div class="icon">
-                            <a href="#"> <i class="fas fa-calendar"></i> 1st may, 2021 </a>
-                            <a href="#"> <i class="fas fa-user"></i> by admin </a>
-                        </div>
-                        <h3>blog title goes here</h3>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident, eius.</p>
-                        <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span> </a>
-                    </div>
-                </div>
-
-                <div class="box">
-                    <div class="image">
-                        <img src={{ asset('img/blog-3.jpg') }} alt="">
-                    </div>
-                    <div class="content">
-                        <div class="icon">
-                            <a href="#"> <i class="fas fa-calendar"></i> 1st may, 2021 </a>
-                            <a href="#"> <i class="fas fa-user"></i> by admin </a>
-                        </div>
-                        <h3>blog title goes here</h3>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident, eius.</p>
-                        <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span> </a>
-                    </div>
-                </div>
-
-            </div>
-
-        </section>
     </main>
 
     <footer>
